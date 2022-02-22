@@ -1,0 +1,38 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <!-- <TargetFramework>netcoreapp3.1</TargetFramework> -->
+    <TargetFramework>netcoreapp5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!-- <Compile Include="obj\Debug\netcoreapp3.1\.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" />
+    <Compile Include="obj\Debug\netcoreapp3.1\Exercicio_02.AssemblyInfo.cs" />
+    <Compile Include="obj\Release\netcoreapp3.1\.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" />
+    <Compile Include="obj\Release\netcoreapp3.1\Exercicio_02.AssemblyInfo.cs" /> -->
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="obj\Debug\netcoreapp3.1\Exercicio_02.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Exercicio_02.csproj.nuget.dgspec.json" />
+    <Content Include="obj\project.assets.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="obj\Debug\netcoreapp3.1\apphost.exe" />
+    <None Include="obj\Debug\netcoreapp3.1\Exercicio_02.AssemblyInfoInputs.cache" />
+    <None Include="obj\Debug\netcoreapp3.1\Exercicio_02.assets.cache" />
+    <None Include="obj\Debug\netcoreapp3.1\Exercicio_02.csproj.CoreCompileInputs.cache" />
+    <None Include="obj\Debug\netcoreapp3.1\Exercicio_02.csprojAssemblyReference.cache" />
+    <None Include="obj\Debug\netcoreapp3.1\Exercicio_02.dll" />
+    <None Include="obj\Debug\netcoreapp3.1\Exercicio_02.genruntimeconfig.cache" />
+    <None Include="obj\Debug\netcoreapp3.1\Exercicio_02.pdb" />
+    <None Include="obj\Exercicio_02.csproj.nuget.g.props" />
+    <None Include="obj\Exercicio_02.csproj.nuget.g.targets" />
+    <None Include="obj\project.nuget.cache" />
+    <None Include="obj\Release\netcoreapp3.1\Exercicio_02.AssemblyInfoInputs.cache" />
+    <None Include="obj\Release\netcoreapp3.1\Exercicio_02.assets.cache" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,16 @@
+C:\GFT\ExercicioPoo_04112021\Exercicio_02\bin\Debug\netcoreapp5.0\Exercicio_02.exe
+C:\GFT\ExercicioPoo_04112021\Exercicio_02\bin\Debug\netcoreapp5.0\Exercicio_02.deps.json
+C:\GFT\ExercicioPoo_04112021\Exercicio_02\bin\Debug\netcoreapp5.0\Exercicio_02.runtimeconfig.json
+C:\GFT\ExercicioPoo_04112021\Exercicio_02\bin\Debug\netcoreapp5.0\Exercicio_02.runtimeconfig.dev.json
+C:\GFT\ExercicioPoo_04112021\Exercicio_02\bin\Debug\netcoreapp5.0\Exercicio_02.dll
+C:\GFT\ExercicioPoo_04112021\Exercicio_02\bin\Debug\netcoreapp5.0\ref\Exercicio_02.dll
+C:\GFT\ExercicioPoo_04112021\Exercicio_02\bin\Debug\netcoreapp5.0\Exercicio_02.pdb
+C:\GFT\ExercicioPoo_04112021\Exercicio_02\obj\Debug\netcoreapp5.0\Exercicio_02.csproj.AssemblyReference.cache
+C:\GFT\ExercicioPoo_04112021\Exercicio_02\obj\Debug\netcoreapp5.0\Exercicio_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\GFT\ExercicioPoo_04112021\Exercicio_02\obj\Debug\netcoreapp5.0\Exercicio_02.AssemblyInfoInputs.cache
+C:\GFT\ExercicioPoo_04112021\Exercicio_02\obj\Debug\netcoreapp5.0\Exercicio_02.AssemblyInfo.cs
+C:\GFT\ExercicioPoo_04112021\Exercicio_02\obj\Debug\netcoreapp5.0\Exercicio_02.csproj.CoreCompileInputs.cache
+C:\GFT\ExercicioPoo_04112021\Exercicio_02\obj\Debug\netcoreapp5.0\Exercicio_02.dll
+C:\GFT\ExercicioPoo_04112021\Exercicio_02\obj\Debug\netcoreapp5.0\ref\Exercicio_02.dll
+C:\GFT\ExercicioPoo_04112021\Exercicio_02\obj\Debug\netcoreapp5.0\Exercicio_02.pdb
+C:\GFT\ExercicioPoo_04112021\Exercicio_02\obj\Debug\netcoreapp5.0\Exercicio_02.genruntimeconfig.cache
